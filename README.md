@@ -2,7 +2,7 @@
 <h3 align="center">I'm Suman Shrestha, a passionate web developer and cybersecurity enthusiast.</h3>
 
 
-- 🔭 I’m currently working on Laganisutra a web application that integrates real-time stock data visualization, such as a NEPSE stock dashboard using TradingView.
+- 🔭 I’m currently working on Laganisutra a web application that integrates real-time stock data visualization, such as a NEPSE stock using TradingView.
 
 - 🌱 I’m currently learning **learning state management in Vue.js with Pinia and deepening my knowledge of API security with Laravel Sanctum.**
 
