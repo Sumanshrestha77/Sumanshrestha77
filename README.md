@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Lead_Nepal**
 
-- 👨‍💻 All of my projects are available at [sumanshrestha.com.np](sumanshrestha1.com.np)
+- 👨‍💻 All of my projects are available at sumanshrestha1.com.np
 
 - 💬 Ask me about **Laravel, Vue**
 
