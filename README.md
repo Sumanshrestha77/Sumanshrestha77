@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Shrestha</h1>
-<h3 align="center">Full Stack Developer (Vue + Laravel) and data processing enthusiast</h3>
+<h3 align="center">Full Stack Developer and data processing enthusiast</h3>
 
 <p align="center">
 I build web applications end to end, and I enjoy collecting, cleaning and turning raw data into something people can actually use.
@@ -9,7 +9,7 @@ I build web applications end to end, and I enjoy collecting, cleaning and turnin
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on an **Insurance Underwriting Management System**: policy rate rules, premium calculation, custom formulas and risk assessment.
+- 🔭 Currently working on an **Insurance Underwriting Management System**: Handling System Architecture, Api Optimization and Security.
 - 📈 Previously worked on **Laganisutra**, a web application that integrates real-time stock data visualization (NEPSE) using TradingView.
 - 🧩 Building full stack apps with **Vue.js** on the frontend and **Laravel** on the backend.
 - 📊 Passionate about **data collection and processing**: gathering data from APIs and web sources, cleaning it, transforming it and presenting it in dashboards and charts.
